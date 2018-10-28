@@ -1,10 +1,10 @@
 # Maak zelf een keyboard met een Arduino
 
-Voor Team Scheire gaven we de rolstoel van Lazlo een upgrade. Met een Arduino (Leonardo) maakten we een speciale game controller, op maat van zijn rolstoel en zijn kunde.
+Voor [Team Scheire](https://www.canvas.be/team-scheire) gaven we de rolstoel van Lazlo een upgrade. Met een Arduino (Leonardo) maakten we een speciale game controller, op maat van zijn rolstoel en zijn unieke kunden.
 
 In deze repository leggen we uit hoe je zelf een Arduino met knoppen kan gebruiken als een toetsenbord, om er bijvoorbeeld games mee te spelen.
 
-We maken een programma waarmee we 9 knoppen kunnen aansluiten om zo de getallen 1 tot 9 op het numerieke klavier van ons toetsenbord met andere knoppen te kunnen bedienen.
+We maken een programma waarmee we 9 knoppen kunnen aansluiten om zo de getallen 1 tot 9 op het numerieke klavier van ons toetsenbord met onze eigen knoppen te kunnen bedienen.
 
 ## Wat heb je nodig?
 
@@ -12,7 +12,7 @@ Het belangrijkste is een [Arduino Leonardo](https://www.arduino.cc/en/Main/Ardui
 
 ![Leonardo Arduino](img/leonardo.jpg)
 
-Je kan ook een bord gebruiken dat een clone is van de Arduino Leonardo, zoals de [Brainbox Arduino](https://e2cre8.be/?page_id=21)1, die extra grond en voedingsinnen heeft en ook handige schroefconnectors heeft.
+Je kan ook een bord gebruiken dat een clone is van de Arduino Leonardo, zoals de [Brainbox Arduino](https://e2cre8.be/?page_id=21), die extra grond- en voedingspinnen heeft en ook handige schroefconnectors heeft.
 
 ![Brainbox Arduino](img/brainbox.jpg)
 
@@ -41,6 +41,7 @@ Als je nu je de knoppen indrukt, dan zal je zien dat je je Arduino, net als elk 
 ## Experimenteer!
 
 * Open je favoriete spel en stel knoppen van je numeriek klavier in om te kunnen spelen, zodat je je zelfgemaakte controller kan gebruiken om te gamen!
-* Verander de knoppen stuur andere karakters van, of stuur ook muiscommando's door, je kan dit met de [Keyboard en Mouse libraries](https://www.arduino.cc/en/Reference.MouseKeyboard) van Arduino.
+* Bestudeer de code en verander ze. ZO kan je bijvoorbeeld lichtjes toevoegen aan de controller die reageren op de knoppen.
+* Verander de knoppen, stuur andere karakters door, of stuur ook muiscommando's door, je kan dit met de [Keyboard en Mouse libraries](https://www.arduino.cc/en/Reference.MouseKeyboard) van Arduino.
 * Met twee stukjes zilverpapier kan je zelf je eigen knop maken. Welke gekke knop kan je zelf verzinnen?
-* Laat je fantasie gaan en ouw je eigen game controller, zoals een volledige vliegtuigcockpit, zodat je net echt je flight simulator kan besturen.
+* Laat je fantasie gaan en bouw je eigen game controller, zoals een volledige vliegtuigcockpit, zodat je net echt je flight simulator kan besturen.
