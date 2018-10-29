@@ -1,4 +1,4 @@
-# Source-Code van de controller van Lazlo om GTA5 te kunnen spelen 
+# Source-Code van de controller van Lazlo om GTA V te kunnen spelen 
 
 Het maken van knoppen en schrijven van code was één ding, maar we gingen nog verder om Lazlo auto-aim te geven én de mogelijkheid te geven om te kunnen in- en uitstappen uit een voertuig.
 
@@ -18,7 +18,7 @@ Via [OpenIV](http://openiv.com/?cat=23) kan je zelfs nog verder gaan en de bronb
 
 Probleem: de knoppen van de xbox controller in GTA V kan je niet configureren en het in- en uitstappen in een auto is dezelfde knop als de auto-aim.
 
-Oplossing: [antimicro](https://emulationrealm.net/downloads/file/3374-antimicro-windows-64bit) [source-code](https://github.com/AntiMicro/antimicro) een mapper om joystick-keys naar een virtueel keybaord te mappen.
+Oplossing: [antimicro](https://emulationrealm.net/downloads/file/3374-antimicro-windows-64bit) (hier [source-code](https://github.com/AntiMicro/antimicro)) een mapper om joystick-keys naar een virtueel keybaord te mappen.
 
 ## samengevat
 
