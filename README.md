@@ -1,6 +1,8 @@
 # Maak zelf een keyboard met een Arduino
 
-Voor [Team Scheire](https://www.canvas.be/team-scheire) gaven we de rolstoel van Lazlo een upgrade. Met een Arduino (Leonardo) maakten we een speciale game controller, op maat van zijn rolstoel en zijn unieke kunden.
+Voor [Team Scheire](https://www.canvas.be/team-scheire) gaven we de rolstoel van Lazlo een upgrade. Met een Arduino (Leonardo) maakten we een speciale game controller, op maat van zijn rolstoel en zijn unieke kunden. 
+
+_Benieuwd naar de code voor de controller van Lazlo? Die staat [hier](gtaV-lazlo)._
 
 In deze repository leggen we uit hoe je zelf een Arduino met knoppen kan gebruiken als een toetsenbord, om er bijvoorbeeld games mee te spelen.
 
@@ -45,3 +47,4 @@ Als je nu je de knoppen indrukt, dan zal je zien dat je je Arduino, net als elk 
 * Verander de knoppen, stuur andere karakters door, of stuur ook muiscommando's door, je kan dit met de [Keyboard en Mouse libraries](https://www.arduino.cc/en/Reference.MouseKeyboard) van Arduino.
 * Met twee stukjes zilverpapier kan je zelf je eigen knop maken. Welke gekke knop kan je zelf verzinnen?
 * Laat je fantasie gaan en bouw je eigen game controller, zoals een volledige vliegtuigcockpit, zodat je net echt je flight simulator kan besturen.
+
